@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vazza54
+- 👋 Hi, I’m @v-azza
 - 👀 I’m interested in programming IoT devices
 - 🌱 I’m currently learning C++ and C#
 
