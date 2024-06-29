@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @v-azza
-- 🌱 I’m currently learning JavaScript, React, Python, and C++
+- 🌱 I’m currently learning Python, React, JavaScript, and C++
 - 👀 I’m interested in programming IoT devices
 
 - vazza.netlify.app
