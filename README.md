@@ -1,4 +1,4 @@
-Hi, I'm vazza. I work as a Senior Cyber Security Operations person, and I'm developing so I can try new things and support my learning in Cyber Security in my spare time.
+Hi, I'm vazza. I work in Cyber Security Operations. I'm developing and building tools so I can satisfy my curiosities, try new things and support my learning in Cyber Security in my spare time.
 
 I'm learning:
 - BASH
