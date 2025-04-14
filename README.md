@@ -11,5 +11,6 @@ I want to learn:
 I'm interested in:
 - Programming IOT devices
 
-[vazza.org](vazza.org)
-[v-azza.github.io](v-azza.github.io)
+[vazza.org](https://www.vazza.org)
+
+[v-azza.github.io](https://www.v-azza.github.io)
