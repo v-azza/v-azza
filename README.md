@@ -5,7 +5,7 @@ I'm learning:
 - Linux command line and general linux competency
 
 I want to learn:
-- Golang
+- Go
 - C++
 
 I'm interested in:
